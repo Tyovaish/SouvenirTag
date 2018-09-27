@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, TouchableOpacity, Slider, StyleSheet } from 'react-native';
+import { Text, View, TouchableOpacity, Slider, Image,StyleSheet } from 'react-native';
 import { Camera, Permissions, FileSystem } from 'expo';
 import GalleryScreen from './GalleryScreen';
 import ReverseImageGrid from './ReverseImageGrid';
